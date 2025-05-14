@@ -1,0 +1,6 @@
+<style>
+body { 
+    background-image: url('hatter.jpg') ;
+    background-size: cover; /*Kitölti a képernyőt*/
+    background-repeat: no-repeat; /*Ne ismétlődjön*/
+    background-position: center; /*Középre igazítás*/
